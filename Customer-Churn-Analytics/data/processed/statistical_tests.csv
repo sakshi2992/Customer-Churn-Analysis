@@ -1,0 +1,8 @@
+test,statistic,p_value,significant_at_5pct
+T-test: Tenure differs by churn,-1.3500084977201094,0.17711132973115434,False
+T-test: Monthly value proxy differs by churn,12.05339080853693,9.036344349442571e-33,True
+T-test: Age differs by churn,30.420282283546275,4.399451965599354e-179,True
+Chi-square: Payment/Card type associated with churn,5.053223027060927,0.16794112067810177,False
+Chi-square: Geography associated with churn,300.6264011211942,5.245736109572763e-66,True
+Chi-square: Gender associated with churn,112.39655374778587,2.9253677618642e-26,True
+Chi-square: Age group associated with churn,1288.2056054490638,1.2004274755488364e-277,True
